@@ -1,3 +1,10 @@
 .pixel {
     font-family: 'Press Start 2P', cursive;
 }
+
+@media only screen and (max-device-width: 480px) {
+
+    .mobile-font {
+        font-size: 17px;
+      }
+}
