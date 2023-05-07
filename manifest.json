@@ -1,17 +1,17 @@
 {
-    "name": "Jonathan--84 Portfolio",
+    "name": "Jonathan-84 Portfolio",
     "short_name": "JR",
     "start_url": "./bcard.html",
     "scope": "./",
     "icons": [
       {
-        "src": "./assets/images/apple-touch-icon.png",
+        "src": "./assets/img/apple-touch-icon.png",
         "sizes": "180x180",
         "type": "image/png",
         "purpose": "any maskable"
       },
       {
-        "src": "./assets/images/android-chrome-192x192.png",
+        "src": "./assets/img/android-chrome-192x192.png",
         "sizes": "512x512",
         "type": "image/png",
         "purpose": "any maskable"
