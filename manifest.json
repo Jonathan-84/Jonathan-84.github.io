@@ -1,0 +1,23 @@
+{
+    "name": "Jonathan--84 Portfolio",
+    "short_name": "JR",
+    "start_url": "/bcard.html",
+    "scope": "./",
+    "icons": [
+      {
+        "src": "./assets/images/maskable_1906.png",
+        "sizes": "180x180",
+        "type": "image/png",
+        "purpose": "any maskable"
+      },
+      {
+        "src": "./assets/images/logo192.png.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any maskable"
+      }
+    ],
+    "theme_color": "#FFF8DC",
+    "background_color": "#FFF8DC",
+    "display": "standalone"
+  }
