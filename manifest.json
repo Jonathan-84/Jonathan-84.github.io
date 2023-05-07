@@ -5,13 +5,13 @@
     "scope": "./",
     "icons": [
       {
-        "src": "./assets/images/maskable_1906.png",
+        "src": "./assets/images/apple-touch-icon.png",
         "sizes": "180x180",
         "type": "image/png",
         "purpose": "any maskable"
       },
       {
-        "src": "./assets/images/logo192.png.png",
+        "src": "./assets/images/android-chrome-192x192.png",
         "sizes": "512x512",
         "type": "image/png",
         "purpose": "any maskable"
