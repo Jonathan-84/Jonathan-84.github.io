@@ -1,7 +1,7 @@
 {
     "name": "Jonathan--84 Portfolio",
     "short_name": "JR",
-    "start_url": "/bcard.html",
+    "start_url": "./bcard.html",
     "scope": "./",
     "icons": [
       {
