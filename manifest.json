@@ -1,6 +1,6 @@
 {
     "name": "Jonathan-84 Portfolio",
-    "short_name": "JR",
+    "short_name": "Jonathan R",
     "start_url": "./bcard.html",
     "scope": "./",
     "icons": [
@@ -17,7 +17,7 @@
         "purpose": "any maskable"
       }
     ],
-    "theme_color": "#FFF8DC",
-    "background_color": "#FFF8DC",
+    "theme_color": "#0D6EFD",
+    "background_color": "#0D6EFD",
     "display": "standalone"
   }
